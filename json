@@ -1,0 +1,87 @@
+{
+    "error_code": 0,
+    "reason": "Success",
+    "result": {
+        "sk": {
+            "temp": "19",
+            "wind_direction": "北风",
+            "wind_strength": "2级",
+            "humidity": "62%",
+            "time": "11:25"
+        },
+        "today": {
+            "city": "商丘",
+            "date_y": "2014年09月30日",
+            "week": "星期二",
+            "temperature": "22℃~12℃",
+            "weather": "晴转多云",
+            "fa": "00",
+            "fb": "01",
+            "wind": "微风",
+            "dressing_index": "舒适",
+            "dressing_advice": "建议着长袖T恤、衬衫加单裤等服装。年老体弱者宜着针织长袖衬衫、马甲和长裤。",
+            "uv_index": "中等",
+            "comfort_index": "舒适",
+            "wash_index": "较适宜",
+            "travel_index": "适宜",
+            "exercise_index": "适宜",
+            "drying_index": "适宜"
+        },
+        "future": [
+            {
+                "temperature": "22℃~12℃",
+                "weather": "晴转多云",
+                "fa": "00",
+                "fb": "01",
+                "wind": "微风",
+                "week": "星期二",
+                "date": "20140930"
+            },
+            {
+                "temperature": "22℃~14℃",
+                "weather": "阴转多云",
+                "fa": "02",
+                "fb": "01",
+                "wind": "微风",
+                "week": "星期三",
+                "date": "20141001"
+            },
+            {
+                "temperature": "25℃~15℃",
+                "weather": "晴",
+                "fa": "00",
+                "fb": "00",
+                "wind": "微风",
+                "week": "星期四",
+                "date": "20141002"
+            },
+            {
+                "temperature": "25℃~15℃",
+                "weather": "晴",
+                "fa": "00",
+                "fb": "00",
+                "wind": "微风",
+                "week": "星期五",
+                "date": "20141003"
+            },
+            {
+                "temperature": "22℃~15℃",
+                "weather": "多云",
+                "fa": "01",
+                "fb": "01",
+                "wind": "微风",
+                "week": "星期六",
+                "date": "20141004"
+            },
+            {
+                "temperature": "25℃~14℃",
+                "weather": "多云转晴",
+                "fa": "01",
+                "fb": "00",
+                "wind": "微风",
+                "week": "星期日",
+                "date": "20141005"
+            }
+        ]
+    }
+}
