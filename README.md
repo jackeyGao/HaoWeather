@@ -1,7 +1,7 @@
 HaoWeather
 ----------
 
-a simple Weather applition.
+a simple Weather application.
 
 
 
